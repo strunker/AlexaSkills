@@ -1,0 +1,1 @@
+python c:\Python38\AlexaSkill\IntentRouter.py

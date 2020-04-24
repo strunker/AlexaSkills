@@ -2,7 +2,7 @@
 ############################################################################################## GLOBALS THAT YOU NEED TO FILL IN #################################################################################
 #OPTIONAL:
 #If you want the code to email you, make a gmail account and enable 'less secure apps' 
-#Instructions for this are at the below lins.
+#Instructions for this are at the below links.
 #https://support.google.com/mail/answer/56256?hl=en
 #https://support.google.com/accounts/answer/6010255?hl=en
 gmail_user = "test@gmail.com" #Enter the email address you created.

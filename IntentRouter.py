@@ -166,7 +166,7 @@ def kill_switch():
 def EmailSomeone(Subject,Body,ToAdd):
     global gmail_user
     global gmail_password
-    if gmail_user == "test@gmail.com" and gmail_password != "testPassword213!" and ToAdd != "EnterYourEmail@microsoft.com":
+    if gmail_user != "test@gmail.com" and gmail_password != "testPassword213!" and ToAdd != "EnterYourEmail@microsoft.com":
         print("Sending Email To:",ToAdd)
         Body = str(Body)
         sent_from = gmail_user

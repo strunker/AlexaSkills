@@ -1,5 +1,5 @@
 # Control Your PC With Alexa
-Alexa skill code to create your own local\lambda server\api.
+Alexa skill code to create your own local server\lambda function\Alexa skill.
 
 For more info on this code and how to utilize it see the below web page.
 There isn't much to add to this read me the web site doesn't cover.
